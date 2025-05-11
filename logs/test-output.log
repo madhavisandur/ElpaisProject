@@ -1,0 +1,758 @@
+2025-05-11 15:54:56 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 15:55:04 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:04:18 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:04:19 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:06:26 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:06:26 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:08:19 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:08:19 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:11:52 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:11:52 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:17:19 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:17:20 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:18:33 INFO  ElPaisHomePageTest:80 -  Language dispalyed is : 
+2025-05-11 16:18:33 INFO  ElPaisHomePageTest:96 - Starting getArticlles
+2025-05-11 16:30:45 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:30:45 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:30:45 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:30:45 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:31:09 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:31:09 INFO  ElPaisHomePageTest:156 - Article 1: 
+2025-05-11 16:31:09 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:31:09 INFO  ElPaisHomePageTest:158 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:31:10 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:31:10 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 16:31:10 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:31:10 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:31:10 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:31:10 INFO  utilities:45 - \n
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:156 - Article 2: El alto el fuego de Rusia, un espejismo en el frente
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:158 - ArticleContent: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:31:10 INFO  utilities:66 - Original Text: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:31:10 INFO  utilities:67 - Translated Text: During the three nights of truce, kyiv has been safe from bombing, but Moscow has attacked other areas  
+2025-05-11 16:31:10 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:31:10 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:31:10 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:31:10 INFO  utilities:45 - \n
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:156 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:158 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:31:10 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:31:10 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 16:31:10 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:31:10 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:31:10 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:31:10 INFO  utilities:45 - \n
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:156 - Article 4: 
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:31:10 INFO  ElPaisHomePageTest:158 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:31:11 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:31:11 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 16:31:11 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:31:11 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:31:11 INFO  utilities:39 - the: 5
+2025-05-11 16:31:11 INFO  utilities:39 - to: 3
+2025-05-11 16:31:11 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 16:31:11 INFO  utilities:45 - \n
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:156 - Article 5: 
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:158 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:31:11 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:31:11 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 16:31:11 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:31:11 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:31:11 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:31:11 INFO  utilities:45 - \n
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:164 - ---------------------------------
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:165 - Completed scraping articles
+2025-05-11 16:31:11 INFO  ElPaisHomePageTest:166 - ---------------------------------
+2025-05-11 16:35:14 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:35:14 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:35:14 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:35:14 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:35:38 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:35:38 INFO  ElPaisHomePageTest:156 - Article 1: 
+2025-05-11 16:35:38 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:35:38 INFO  ElPaisHomePageTest:158 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:35:39 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:35:39 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 16:35:39 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:35:39 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:35:39 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:35:39 INFO  utilities:45 - \n
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:156 - Article 2: El alto el fuego de Rusia, un espejismo en el frente
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:158 - ArticleContent: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:35:39 INFO  utilities:66 - Original Text: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:35:39 INFO  utilities:67 - Translated Text: During the three nights of truce, kyiv has been safe from bombing, but Moscow has attacked other areas  
+2025-05-11 16:35:39 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:35:39 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:35:39 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:35:39 INFO  utilities:45 - \n
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:156 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:158 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:35:39 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:35:39 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 16:35:39 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:35:39 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:35:39 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:35:39 INFO  utilities:45 - \n
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:156 - Article 4: 
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:35:39 INFO  ElPaisHomePageTest:158 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:35:40 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:35:40 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 16:35:40 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:35:40 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:35:40 INFO  utilities:39 - the: 5
+2025-05-11 16:35:40 INFO  utilities:39 - to: 3
+2025-05-11 16:35:40 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 16:35:40 INFO  utilities:45 - \n
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:156 - Article 5: 
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:158 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:35:40 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:35:40 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 16:35:40 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:35:40 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:35:40 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:35:40 INFO  utilities:45 - \n
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:164 - ---------------------------------
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:165 - Completed scraping articles
+2025-05-11 16:35:40 INFO  ElPaisHomePageTest:166 - ---------------------------------
+2025-05-11 16:36:54 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:36:54 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:36:54 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:36:54 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:37:03 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:37:03 INFO  ElPaisHomePageTest:156 - Article 1: 
+2025-05-11 16:37:03 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:37:03 INFO  ElPaisHomePageTest:158 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:37:04 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:37:04 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 16:37:04 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:37:04 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:37:04 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:37:04 INFO  utilities:45 - \n
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:156 - Article 2: El alto el fuego de Rusia, un espejismo en el frente
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:158 - ArticleContent: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:37:04 INFO  utilities:66 - Original Text: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:37:04 INFO  utilities:67 - Translated Text: During the three nights of truce, kyiv has been safe from bombing, but Moscow has attacked other areas  
+2025-05-11 16:37:04 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:37:04 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:37:04 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:37:04 INFO  utilities:45 - \n
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:156 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:37:04 INFO  ElPaisHomePageTest:158 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:37:05 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:37:05 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 16:37:05 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:37:05 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:37:05 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:37:05 INFO  utilities:45 - \n
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:156 - Article 4: 
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:158 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:37:05 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:37:05 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 16:37:05 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:37:05 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:37:05 INFO  utilities:39 - the: 5
+2025-05-11 16:37:05 INFO  utilities:39 - to: 3
+2025-05-11 16:37:05 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 16:37:05 INFO  utilities:45 - \n
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:155 - ---------------------------------
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:156 - Article 5: 
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:157 - ---------------------------------
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:158 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:37:05 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:37:05 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 16:37:05 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:37:05 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:37:05 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:37:05 INFO  utilities:45 - \n
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:164 - ---------------------------------
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:165 - Completed scraping articles
+2025-05-11 16:37:05 INFO  ElPaisHomePageTest:166 - ---------------------------------
+2025-05-11 16:38:19 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:38:28 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:38:28 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:38:28 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:41:26 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:41:34 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:41:34 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:41:34 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:43:15 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:43:15 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:43:15 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:43:15 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:44:53 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:44:53 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:44:53 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:44:53 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:47:06 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:47:06 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:47:06 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:47:06 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:47:16 ERROR ElPaisHomePageTest:189 - Banner Error
+2025-05-11 16:49:17 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:49:17 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:49:17 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:49:17 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:50:41 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:50:41 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:50:41 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:50:41 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:59:09 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 16:59:09 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 16:59:09 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 16:59:09 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 16:59:19 INFO  ElPaisHomePageTest:124 -  Either Accept Button is clicked or not displayed
+2025-05-11 16:59:28 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 16:59:28 INFO  ElPaisHomePageTest:186 - Article 1: 
+2025-05-11 16:59:28 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 16:59:28 INFO  ElPaisHomePageTest:188 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:59:29 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 16:59:29 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 16:59:29 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:59:29 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:59:29 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:59:29 INFO  utilities:45 - \n
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:186 - Article 2: El alto el fuego de Rusia, un espejismo en el frente
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:188 - ArticleContent: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:59:29 INFO  utilities:66 - Original Text: Durante las tres noches de tregua, Kiev ha estado a salvo de bombardeos, pero Moscú ha atacado otras zonas  
+2025-05-11 16:59:29 INFO  utilities:67 - Translated Text: During the three nights of truce, kyiv has been safe from bombing, but Moscow has attacked other areas  
+2025-05-11 16:59:29 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:59:29 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:59:29 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:59:29 INFO  utilities:45 - \n
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:186 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 16:59:29 INFO  ElPaisHomePageTest:188 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:59:30 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 16:59:30 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 16:59:30 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:59:30 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:59:30 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:59:30 INFO  utilities:45 - \n
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:186 - Article 4: 
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:188 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:59:30 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 16:59:30 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 16:59:30 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:59:30 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:59:30 INFO  utilities:39 - the: 5
+2025-05-11 16:59:30 INFO  utilities:39 - to: 3
+2025-05-11 16:59:30 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 16:59:30 INFO  utilities:45 - \n
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:186 - Article 5: 
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:188 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:59:30 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 16:59:30 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 16:59:30 INFO  utilities:69 - ------------------------------------------
+2025-05-11 16:59:30 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 16:59:30 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 16:59:30 INFO  utilities:45 - \n
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:194 - ---------------------------------
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:195 - Completed scraping articles
+2025-05-11 16:59:30 INFO  ElPaisHomePageTest:196 - ---------------------------------
+2025-05-11 17:00:42 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 17:00:42 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:00:42 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 17:00:42 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 17:00:52 INFO  ElPaisHomePageTest:124 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:01:01 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:01:01 INFO  ElPaisHomePageTest:186 - Article 1: 
+2025-05-11 17:01:01 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:01:01 INFO  ElPaisHomePageTest:188 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:01:02 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:01:02 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 17:01:02 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:01:02 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:01:02 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:01:02 INFO  utilities:45 -  
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:186 - Article 2: EN DIRECTO
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:188 - ArticleContent: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:01:02 INFO  utilities:66 - Original Text: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:01:02 INFO  utilities:67 - Translated Text: Türkiye confirms its willingness to host the negotiations 
+2025-05-11 17:01:02 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:01:02 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:01:02 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:01:02 INFO  utilities:45 -  
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:186 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:01:02 INFO  ElPaisHomePageTest:188 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:01:03 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:01:03 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:01:03 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:01:03 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:01:03 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:01:03 INFO  utilities:45 -  
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:186 - Article 4: 
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:188 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:01:03 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:01:03 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:01:03 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:01:03 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:01:03 INFO  utilities:39 - the: 5
+2025-05-11 17:01:03 INFO  utilities:39 - to: 3
+2025-05-11 17:01:03 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 17:01:03 INFO  utilities:45 -  
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:186 - Article 5: 
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:188 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:01:03 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:01:03 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:01:03 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:01:03 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:01:03 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:01:03 INFO  utilities:45 -  
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:194 - ---------------------------------
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:195 - Completed scraping articles
+2025-05-11 17:01:03 INFO  ElPaisHomePageTest:196 - ---------------------------------
+2025-05-11 17:04:34 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 17:04:34 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:04:34 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 17:04:34 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 17:04:44 INFO  ElPaisHomePageTest:124 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:04:48 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:04:48 INFO  ElPaisHomePageTest:186 - Article 1: 
+2025-05-11 17:04:48 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:04:48 INFO  ElPaisHomePageTest:188 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:04:49 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:04:49 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 17:04:49 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:04:49 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:04:49 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:04:49 INFO  utilities:45 -  
+2025-05-11 17:04:49 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:04:49 INFO  ElPaisHomePageTest:186 - Article 2: EN DIRECTO
+2025-05-11 17:04:49 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:04:49 INFO  ElPaisHomePageTest:188 - ArticleContent: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:04:50 INFO  utilities:66 - Original Text: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:04:50 INFO  utilities:67 - Translated Text: Türkiye confirms its willingness to host the negotiations 
+2025-05-11 17:04:50 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:04:50 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:04:50 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:04:50 INFO  utilities:45 -  
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:186 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:188 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:04:50 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:04:50 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:04:50 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:04:50 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:04:50 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:04:50 INFO  utilities:45 -  
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:186 - Article 4: 
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:188 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:04:50 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:04:50 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:04:50 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:04:50 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:04:50 INFO  utilities:39 - Word: the: Count: 5
+2025-05-11 17:04:50 INFO  utilities:39 - Word: to: Count: 3
+2025-05-11 17:04:50 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 17:04:50 INFO  utilities:45 -  
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:186 - Article 5: 
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:04:50 INFO  ElPaisHomePageTest:188 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:04:51 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:04:51 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:04:51 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:04:51 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:04:51 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:04:51 INFO  utilities:45 -  
+2025-05-11 17:04:51 INFO  ElPaisHomePageTest:194 - ---------------------------------
+2025-05-11 17:04:51 INFO  ElPaisHomePageTest:195 - Completed scraping articles
+2025-05-11 17:04:51 INFO  ElPaisHomePageTest:196 - ---------------------------------
+2025-05-11 17:10:37 INFO  ElPaisHomePageTest:83 - --------------------------------- 
+2025-05-11 17:10:37 INFO  ElPaisHomePageTest:87 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:10:37 INFO  ElPaisHomePageTest:90 - --------------------------------- 
+2025-05-11 17:10:37 INFO  ElPaisHomePageTest:99 - Starting getArticlles
+2025-05-11 17:10:47 INFO  ElPaisHomePageTest:124 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:10:51 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:10:51 INFO  ElPaisHomePageTest:186 - Article 1: 
+2025-05-11 17:10:51 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:10:51 INFO  ElPaisHomePageTest:188 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:10:52 INFO  utilities:66 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:10:52 INFO  utilities:67 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 17:10:52 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:10:52 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:10:52 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:10:52 INFO  utilities:45 -  
+2025-05-11 17:10:52 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:10:52 INFO  ElPaisHomePageTest:186 - Article 2: EN DIRECTO
+2025-05-11 17:10:52 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:10:52 INFO  ElPaisHomePageTest:188 - ArticleContent: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:10:53 INFO  utilities:66 - Original Text: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:10:53 INFO  utilities:67 - Translated Text: Türkiye confirms its willingness to host the negotiations 
+2025-05-11 17:10:53 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:10:53 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:10:53 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:10:53 INFO  utilities:45 -  
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:186 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:188 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:10:53 INFO  utilities:66 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:10:53 INFO  utilities:67 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:10:53 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:10:53 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:10:53 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:10:53 INFO  utilities:45 -  
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:186 - Article 4: 
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:188 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:10:53 INFO  utilities:66 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:10:53 INFO  utilities:67 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:10:53 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:10:53 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:10:53 INFO  utilities:39 - Word: the: Count: 5
+2025-05-11 17:10:53 INFO  utilities:39 - Word: to: Count: 3
+2025-05-11 17:10:53 INFO  utilities:44 - Number of duplicate words: 2
+2025-05-11 17:10:53 INFO  utilities:45 -  
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:185 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:186 - Article 5: 
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:187 - ---------------------------------
+2025-05-11 17:10:53 INFO  ElPaisHomePageTest:188 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:10:54 INFO  utilities:66 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:10:54 INFO  utilities:67 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:10:54 INFO  utilities:69 - ------------------------------------------
+2025-05-11 17:10:54 INFO  utilities:35 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:10:54 INFO  utilities:44 - Number of duplicate words: 0
+2025-05-11 17:10:54 INFO  utilities:45 -  
+2025-05-11 17:10:54 INFO  ElPaisHomePageTest:194 - ---------------------------------
+2025-05-11 17:10:54 INFO  ElPaisHomePageTest:195 - Completed scraping articles
+2025-05-11 17:10:54 INFO  ElPaisHomePageTest:196 - ---------------------------------
+2025-05-11 17:42:56 INFO  ElPaisHomePageTest:100 - --------------------------------- 
+2025-05-11 17:43:07 INFO  ElPaisHomePageTest:104 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:43:07 INFO  ElPaisHomePageTest:107 - --------------------------------- 
+2025-05-11 17:43:07 INFO  ElPaisHomePageTest:116 - Starting getArticlles
+2025-05-11 17:43:19 INFO  ElPaisHomePageTest:141 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:43:26 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:43:26 INFO  ElPaisHomePageTest:203 - Article 1: 
+2025-05-11 17:43:26 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:43:26 INFO  ElPaisHomePageTest:205 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:43:26 INFO  utilities:73 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo, después de que los líderes europeos le presionaran ayer para aceptar un alto el fuego a partir del lunes 
+2025-05-11 17:43:26 INFO  utilities:74 - Translated Text: The Russian president is calling on Turkey to host talks on May 15, after European leaders pressured him yesterday to accept a ceasefire starting Monday. 
+2025-05-11 17:43:26 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:43:26 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:43:26 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:43:26 INFO  utilities:52 -  
+2025-05-11 17:43:27 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:43:27 INFO  ElPaisHomePageTest:203 - Article 2: EN DIRECTO
+2025-05-11 17:43:27 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:43:27 INFO  ElPaisHomePageTest:205 - ArticleContent: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:43:28 INFO  utilities:73 - Original Text: Turquía confirma su disponibilidad para acoger las negociaciones 
+2025-05-11 17:43:28 INFO  utilities:74 - Translated Text: Türkiye confirms its willingness to host the negotiations 
+2025-05-11 17:43:28 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:43:28 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:43:28 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:43:28 INFO  utilities:52 -  
+2025-05-11 17:43:28 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:43:28 INFO  ElPaisHomePageTest:203 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:43:28 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:43:28 INFO  ElPaisHomePageTest:205 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:43:29 INFO  utilities:73 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:43:29 INFO  utilities:74 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:43:29 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:43:29 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:43:29 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:43:29 INFO  utilities:52 -  
+2025-05-11 17:43:30 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:43:30 INFO  ElPaisHomePageTest:203 - Article 4: 
+2025-05-11 17:43:30 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:43:30 INFO  ElPaisHomePageTest:205 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:43:30 INFO  utilities:73 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:43:30 INFO  utilities:74 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:43:30 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:43:30 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:43:30 INFO  utilities:46 - Word: the: Count: 5
+2025-05-11 17:43:30 INFO  utilities:46 - Word: to: Count: 3
+2025-05-11 17:43:30 INFO  utilities:51 - Number of duplicate words: 2
+2025-05-11 17:43:30 INFO  utilities:52 -  
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:203 - Article 5: 
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:205 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:43:31 INFO  utilities:73 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:43:31 INFO  utilities:74 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:43:31 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:43:31 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:43:31 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:43:31 INFO  utilities:52 -  
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:211 - ---------------------------------
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:212 - Completed scraping articles
+2025-05-11 17:43:31 INFO  ElPaisHomePageTest:213 - ---------------------------------
+2025-05-11 17:47:31 INFO  ElPaisHomePageTest:100 - --------------------------------- 
+2025-05-11 17:47:32 INFO  ElPaisHomePageTest:100 - --------------------------------- 
+2025-05-11 17:47:41 INFO  ElPaisHomePageTest:100 - --------------------------------- 
+2025-05-11 17:47:42 INFO  ElPaisHomePageTest:104 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:47:42 INFO  ElPaisHomePageTest:107 - --------------------------------- 
+2025-05-11 17:47:42 INFO  ElPaisHomePageTest:116 - Starting getArticlles
+2025-05-11 17:47:42 INFO  ElPaisHomePageTest:141 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:47:43 INFO  ElPaisHomePageTest:104 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:47:43 INFO  ElPaisHomePageTest:107 - --------------------------------- 
+2025-05-11 17:47:43 INFO  ElPaisHomePageTest:116 - Starting getArticlles
+2025-05-11 17:47:44 INFO  ElPaisHomePageTest:104 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:47:44 INFO  ElPaisHomePageTest:107 - --------------------------------- 
+2025-05-11 17:47:44 INFO  ElPaisHomePageTest:116 - Starting getArticlles
+2025-05-11 17:47:49 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:47:49 INFO  ElPaisHomePageTest:203 - Article 1: 
+2025-05-11 17:47:49 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:47:49 INFO  ElPaisHomePageTest:205 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:47:49 INFO  utilities:73 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:47:49 INFO  utilities:74 - Translated Text: Russian President calls on Türkiye to host talks on May 15
+2025-05-11 17:47:49 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:47:49 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:47:49 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:47:49 INFO  utilities:52 -  
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:100 - --------------------------------- 
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:104 - Elpais.com WebPage is displayed in Spanish
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:107 - --------------------------------- 
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:203 - Article 2: Ucrania acepta la negociación directa que ofrece Rusia solo si hay un alto el fuego
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:205 - ArticleContent: 
+2025-05-11 17:47:50 INFO  ElPaisHomePageTest:116 - Starting getArticlles
+2025-05-11 17:47:51 INFO  utilities:73 - Original Text: 
+2025-05-11 17:47:51 INFO  utilities:74 - Translated Text: 
+2025-05-11 17:47:51 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:47:51 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:47:51 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:47:51 INFO  utilities:52 -  
+2025-05-11 17:47:52 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:47:52 INFO  ElPaisHomePageTest:203 - Article 3: 
+2025-05-11 17:47:52 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:47:52 INFO  ElPaisHomePageTest:205 - ArticleContent: 
+2025-05-11 17:47:52 INFO  utilities:73 - Original Text: 
+2025-05-11 17:47:52 INFO  utilities:74 - Translated Text: 
+2025-05-11 17:47:52 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:47:52 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:47:52 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:47:52 INFO  utilities:52 -  
+2025-05-11 17:47:53 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:47:53 INFO  ElPaisHomePageTest:203 - Article 4: 
+2025-05-11 17:47:53 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:47:53 INFO  ElPaisHomePageTest:205 - ArticleContent: 
+2025-05-11 17:47:53 INFO  utilities:73 - Original Text: 
+2025-05-11 17:47:53 INFO  utilities:74 - Translated Text: 
+2025-05-11 17:47:53 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:47:53 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:47:53 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:47:53 INFO  utilities:52 -  
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:141 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:203 - Article 5: 
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:205 - ArticleContent: 
+2025-05-11 17:47:54 INFO  utilities:73 - Original Text: 
+2025-05-11 17:47:54 INFO  utilities:74 - Translated Text: 
+2025-05-11 17:47:54 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:47:54 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:47:54 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:47:54 INFO  utilities:52 -  
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:211 - ---------------------------------
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:212 - Completed scraping articles
+2025-05-11 17:47:54 INFO  ElPaisHomePageTest:213 - ---------------------------------
+2025-05-11 17:47:55 INFO  ElPaisHomePageTest:141 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:48:00 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:00 INFO  ElPaisHomePageTest:203 - Article 1: 
+2025-05-11 17:48:00 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:00 INFO  ElPaisHomePageTest:205 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:01 INFO  utilities:73 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:01 INFO  utilities:74 - Translated Text: Russian President calls on Türkiye to host talks on May 15
+2025-05-11 17:48:01 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:01 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:01 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:01 INFO  utilities:52 -  
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:203 - Article 2: Ucrania acepta la negociación directa que ofrece Rusia solo si hay un alto el fuego
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:205 - ArticleContent: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:203 - Article 1: 
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:02 INFO  ElPaisHomePageTest:205 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:02 INFO  utilities:73 - Original Text: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:02 INFO  utilities:74 - Translated Text: Moscow continues bombing the neighboring country while planning a meeting with kyiv next Thursday. 
+2025-05-11 17:48:02 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:02 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:02 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:02 INFO  utilities:52 -  
+2025-05-11 17:48:02 INFO  utilities:73 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:02 INFO  utilities:74 - Translated Text: Russian President calls on Türkiye to host talks on May 15
+2025-05-11 17:48:02 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:02 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:02 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:02 INFO  utilities:52 -  
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:203 - Article 2: Ucrania acepta la negociación directa que ofrece Rusia solo si hay un alto el fuego
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:205 - ArticleContent: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:203 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:03 INFO  ElPaisHomePageTest:205 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:03 INFO  utilities:73 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:03 INFO  utilities:74 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:48:03 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:03 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:03 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:03 INFO  utilities:52 -  
+2025-05-11 17:48:03 INFO  utilities:73 - Original Text: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:03 INFO  utilities:74 - Translated Text: Moscow continues bombing the neighboring country while planning a meeting with kyiv next Thursday. 
+2025-05-11 17:48:03 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:03 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:03 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:03 INFO  utilities:52 -  
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:203 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:205 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:04 INFO  utilities:73 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:04 INFO  utilities:74 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:48:04 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:04 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:04 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:04 INFO  utilities:52 -  
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:203 - Article 4: 
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:04 INFO  ElPaisHomePageTest:205 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:04 INFO  utilities:73 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:04 INFO  utilities:74 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:48:04 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:04 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:04 INFO  utilities:46 - Word: the: Count: 5
+2025-05-11 17:48:04 INFO  utilities:46 - Word: to: Count: 3
+2025-05-11 17:48:04 INFO  utilities:51 - Number of duplicate words: 2
+2025-05-11 17:48:04 INFO  utilities:52 -  
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:203 - Article 4: 
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:205 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:05 INFO  utilities:73 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:05 INFO  utilities:74 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:48:05 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:05 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:05 INFO  utilities:46 - Word: the: Count: 5
+2025-05-11 17:48:05 INFO  utilities:46 - Word: to: Count: 3
+2025-05-11 17:48:05 INFO  utilities:51 - Number of duplicate words: 2
+2025-05-11 17:48:05 INFO  utilities:52 -  
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:203 - Article 5: 
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:205 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:05 INFO  utilities:73 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:05 INFO  utilities:74 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:48:05 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:05 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:05 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:05 INFO  utilities:52 -  
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:211 - ---------------------------------
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:212 - Completed scraping articles
+2025-05-11 17:48:05 INFO  ElPaisHomePageTest:213 - ---------------------------------
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:203 - Article 5: 
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:205 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:06 INFO  utilities:73 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:06 INFO  utilities:74 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:48:06 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:06 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:06 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:06 INFO  utilities:52 -  
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:211 - ---------------------------------
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:212 - Completed scraping articles
+2025-05-11 17:48:06 INFO  ElPaisHomePageTest:213 - ---------------------------------
+2025-05-11 17:48:11 INFO  ElPaisHomePageTest:141 -  Either Accept Button is clicked or not displayed
+2025-05-11 17:48:17 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:17 INFO  ElPaisHomePageTest:203 - Article 1: 
+2025-05-11 17:48:17 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:17 INFO  ElPaisHomePageTest:205 - ArticleContent: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:17 INFO  utilities:73 - Original Text: El presidente ruso pide a Turquía que acoja conversaciones el 15 de mayo
+2025-05-11 17:48:17 INFO  utilities:74 - Translated Text: Russian President calls on Türkiye to host talks on May 15
+2025-05-11 17:48:17 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:17 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:17 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:17 INFO  utilities:52 -  
+2025-05-11 17:48:18 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:18 INFO  ElPaisHomePageTest:203 - Article 2: Ucrania acepta la negociación directa que ofrece Rusia solo si hay un alto el fuego
+2025-05-11 17:48:18 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:18 INFO  ElPaisHomePageTest:205 - ArticleContent: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:18 INFO  utilities:73 - Original Text: Moscú continúa los bombardeos al país vecino mientras plantea un encuentro con Kiev el próximo jueves 
+2025-05-11 17:48:18 INFO  utilities:74 - Translated Text: Moscow continues bombing the neighboring country while planning a meeting with kyiv next Thursday.
+2025-05-11 17:48:18 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:18 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:18 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:18 INFO  utilities:52 -  
+2025-05-11 17:48:19 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:19 INFO  ElPaisHomePageTest:203 - Article 3: El apagón en España agita el gran avispero energético
+2025-05-11 17:48:19 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:19 INFO  ElPaisHomePageTest:205 - ArticleContent: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:19 INFO  utilities:73 - Original Text: Más de 500 empresas registradas compiten en una actividad tan compleja como rentable
+2025-05-11 17:48:19 INFO  utilities:74 - Translated Text: More than 500 registered companies compete in an activity as complex as it is profitable.
+2025-05-11 17:48:19 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:19 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:19 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:19 INFO  utilities:52 -  
+2025-05-11 17:48:20 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:20 INFO  ElPaisHomePageTest:203 - Article 4: 
+2025-05-11 17:48:20 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:20 INFO  ElPaisHomePageTest:205 - ArticleContent: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:20 INFO  utilities:73 - Original Text: Se cumplen 50 años de la primera tienda en A Coruña. Un viaje de China a Portugal y de Zaragoza a Arteixo para conocer las claves de Zara. El visionario proyecto de Amancio Ortega marcha con nuevas ambiciones hacia el futuro bajo el liderazgo de su hija: “No se trata de vender más, sino de vender bien”, nos dice la presidenta de la compañía
+2025-05-11 17:48:20 INFO  utilities:74 - Translated Text: It&#39;s been 50 years since the first store opened in A Coruña. A journey from China to Portugal and from Zaragoza to Arteixo to learn the secrets of Zara. Amancio Ortega&#39;s visionary project moves forward with new ambitions for the future under the leadership of his daughter: &quot;It&#39;s not about selling more, but about selling well,&quot; the company&#39;s president tells us.
+2025-05-11 17:48:20 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:20 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:20 INFO  utilities:46 - Word: the: Count: 5
+2025-05-11 17:48:20 INFO  utilities:46 - Word: to: Count: 3
+2025-05-11 17:48:20 INFO  utilities:51 - Number of duplicate words: 2
+2025-05-11 17:48:20 INFO  utilities:52 -  
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:202 - ---------------------------------
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:203 - Article 5: 
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:204 - ---------------------------------
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:205 - ArticleContent: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:21 INFO  utilities:73 - Original Text: “¡Viva la República!”, dijo alguien, mientras Felipe VI y la reina Letizia realizaban un desfile solemne
+2025-05-11 17:48:21 INFO  utilities:74 - Translated Text: “Long live the Republic!” someone said, while Felipe VI and Queen Letizia held a solemn parade.
+2025-05-11 17:48:21 INFO  utilities:76 - ------------------------------------------
+2025-05-11 17:48:21 INFO  utilities:42 - Duplicate words which are repeated more than 2 times:
+2025-05-11 17:48:21 INFO  utilities:51 - Number of duplicate words: 0
+2025-05-11 17:48:21 INFO  utilities:52 -  
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:211 - ---------------------------------
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:212 - Completed scraping articles
+2025-05-11 17:48:21 INFO  ElPaisHomePageTest:213 - ---------------------------------
