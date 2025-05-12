@@ -18,6 +18,10 @@ platforms:
     osVersion: 15
     browserName: Chromium
     deviceOrientation: portrait
+  - os: OS X
+    osVersion: Monterey
+    browserName: Edge
+    browserVersion: 130.0
 parallelsPerPlatform: 1
 browserstackLocal: true
 buildName: bstack-demo
